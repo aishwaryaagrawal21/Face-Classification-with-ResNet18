@@ -8,5 +8,5 @@
 This project develops a face classification model using the ResNet18 architecture. It's designed to accurately classify faces based on distinct features or identities from a given dataset. The model leverages transfer learning to fine-tune ResNet18, a powerful convolutional neural network pre-trained on ImageNet.
 
 ## Installation
-Ensure you have Python 3.x installed. Clone this repository and navigate into the project directory. Install the required packages using the commands in the jupyter notebook. 
+Ensure you have Python 3.8 or higher installed. Clone this repository and navigate into the project directory. Install the required packages using the commands in the jupyter notebook. 
 
